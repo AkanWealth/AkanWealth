@@ -1,7 +1,6 @@
 ### Hi there, Am Akaninyene Asanga you can call me AkanWealth 👋
 
 
-- 🔭 I’m currently working on building
 - 🌱 I’m a software Engineer 
 - 🌱I code with 
 - >Nodejs(express), C#(ASP.net) , Reactjs, Vuejs and Database(relational and non-relational)
