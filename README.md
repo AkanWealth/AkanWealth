@@ -6,4 +6,6 @@
 - 📫 How to reach me: <a href = "mailto: akan.asanga@gmail.com">Email</a>
 - > My social media contact: 
    <a href="https://www.linkedin.com/in/akaninyene-asanga-895508151/">LinkedIn</a>
-- ⚡ Fun fact: I love being happy
+- ⚡ Fun fact: I love being happy.
+-  > My portfolio:
+   <a href="https://akan-asanga.onrender.com/">Portfolio</a>
