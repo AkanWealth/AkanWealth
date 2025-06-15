@@ -2,16 +2,16 @@
 
 <p align="center">
   <b>Building software that enables creators and businesses to thrive.</b><br>
-  Blogger on <a href="https://akanwealth.hashnode.dev" target="_blank">Hashnode</a> • Technical Writer • Fullstack Developer
+  Technical Writer • Fullstack Developer
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- ✍️ I write articles on my [Hashnode blog](https://akanwealth.hashnode.dev).
 - ⚡ Fun fact: I’m a huge fan of simplicity and minimal design.
 - 📫 How to reach me: [akanwealth@gmail.com](mailto:akanwealth@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/akanwealth/)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,python,go,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,go,cs,dotnet" />
 </p>
 <p>
   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor
@@ -60,21 +60,10 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-You can find all my posts at 👉 [akanwealth.hashnode.dev](https://akanwealth.hashnode.dev)
-
-<!--
-Use GitHub Action for automatic latest post update if desired
--->
-
----
-
 ## 🌐 Connect With Me
 
 <p>
   <a href="mailto:akanwealth@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akanwealth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/AkanWealth"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://akanwealth.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-%233966F4.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
