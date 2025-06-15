@@ -9,7 +9,6 @@ A seasoned software professional with 6 years of hands-on experience in software
 * 🖥️  See my portfolio at [https://akan-asanga.onrender.com](http://akan-asanga.onrender.com)
 * ✉️  You can contact me at [akan.asanga@gmail.com](mailto:akan.asanga@gmail.com)
 * 🚀  I'm currently working on [https://www.bountip.com/](http://www.bountip.com/)
-* 🧠  I'm learning GoLand
 
 ### Skills
 
