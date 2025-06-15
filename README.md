@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-A seasoned software professional with 6 years of hands-on experience in software development and architecture. Proven ability to tackle complex challenges and deliver pragmatic solutions through analytical problem-solving skills. Excels in effective communication, fostering seamless collaboration within teams, and producing comprehensive technical documentation. Committed to driving projects forward with a deep understanding of software engineering principles and best practices.
+A seasoned software professional with 8 years of hands-on experience in software development and architecture. Proven ability to tackle complex challenges and deliver pragmatic solutions through analytical problem-solving skills. Excels in effective communication, fostering seamless collaboration within teams, and producing comprehensive technical documentation. Committed to driving projects forward with a deep understanding of software engineering principles and best practices.
 
 * 🖥️  See my portfolio at [https://akan-asanga.onrender.com](http://akan-asanga.onrender.com)
 * ✉️  You can contact me at [akan.asanga@gmail.com](mailto:akan.asanga@gmail.com)
@@ -33,3 +33,81 @@ A seasoned software professional with 6 years of hands-on experience in software
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" width="35" />, I'm Akanwealth Asanga</h1>
+
+<p align="center">
+  <b>Building software that enables creators and businesses to thrive.</b><br>
+  Founder @ <a href="https://www.bountip.com" target="_blank">Bountip</a> • Blogger on <a href="https://akanwealth.hashnode.dev" target="_blank">Hashnode</a> • Technical Writer • Fullstack Developer
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently building **Bountip**, a creator monetization platform.
+- ✍️ I write articles on my [Hashnode blog](https://akanwealth.hashnode.dev).
+- ⚡ Fun fact: I’m a huge fan of simplicity and minimal design.
+- 📫 How to reach me: [akanwealth@gmail.com](mailto:akanwealth@gmail.com)
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,python" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase,redis" />
+</p>
+
+### DevOps & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,aws,linux,bash,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkanWealth&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkanWealth&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🔗 [**Bountip**](https://www.bountip.com) — Monetize your content with ease.
+- 🧠 [**DevArticles AI**](https://github.com/AkanWealth/devarticles-ai) — Generate technical blog content using AI.
+- 📷 [**Twelv**](https://twelv.app) — Share authentic moments with close friends (iOS).
+- ✍️ [**devto-bot**](https://github.com/AkanWealth/devto-bot) — CLI tool for posting articles to Dev.to.
+
+---
+
+## 📝 Latest Blog Posts
+
+You can find all my posts at 👉 [akanwealth.hashnode.dev](https://akanwealth.hashnode.dev)
+
+<!--
+Use GitHub Action for automatic latest post update if desired
+-->
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:akanwealth@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akanwealth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/AkanWealth"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://akanwealth.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-%233966F4.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</p>
