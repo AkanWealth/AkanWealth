@@ -52,18 +52,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-- 🧠 [**DevArticles AI**](https://github.com/AkanWealth/devarticles-ai) — Generate technical blog content using AI.
-- 📷 [**Twelv**](https://twelv.app) — Share authentic moments with close friends (iOS).
-- ✍️ [**devto-bot**](https://github.com/AkanWealth/devto-bot) — CLI tool for posting articles to Dev.to.
-
----
-
 ## 🌐 Connect With Me
 
 <p>
   <a href="mailto:akanwealth@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akanwealth/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/AkanWealth"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<!--   <a href="https://twitter.com/AkanWealth"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>
