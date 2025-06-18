@@ -22,12 +22,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet" />
 </p>
 <p>
-<!--   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor -->
-  <p>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-</p>
 </p>
 
 ### Databases & Tools
@@ -36,6 +33,8 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ### DevOps & Hosting
