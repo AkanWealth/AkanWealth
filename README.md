@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet" />
 </p>
 <p>
-  <strong>Also:</strong> ASP.NET, Entity Framework, Blazor
+<!--   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor -->
   <p>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
