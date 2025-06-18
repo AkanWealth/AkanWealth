@@ -27,7 +27,7 @@
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase,redis,mssql,kafka" />
 </p>
 <p>
   <strong>Also:</strong> MSSQL, Kafka, RabbitMQ
