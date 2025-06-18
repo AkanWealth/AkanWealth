@@ -19,7 +19,7 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet,asp.net" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet" />
 </p>
 <p>
   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor
@@ -27,10 +27,10 @@
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase,redis,mssql,kafka" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase,redis,mssql,rabbitmq" />
 </p>
 <p>
-  <strong>Also:</strong> MSSQL, Kafka, RabbitMQ
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 ### DevOps & Hosting
