@@ -23,6 +23,11 @@
 </p>
 <p>
   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor
+  <p>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+</p>
 </p>
 
 ### Databases & Tools
