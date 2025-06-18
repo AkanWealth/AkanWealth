@@ -19,7 +19,7 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,go,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet,asp.net" />
 </p>
 <p>
   <strong>Also:</strong> ASP.NET, Entity Framework, Blazor
