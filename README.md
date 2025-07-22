@@ -20,6 +20,7 @@
 ### Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,angular,nodejs,express,nestjs,go,cs,dotnet,java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
