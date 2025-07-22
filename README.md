@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkanWealth&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="AkanWealth GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkanWealth&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
