@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkanWealth&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkanWealth&theme=radical" />
 </p>
 
 <p align="center">
