@@ -1,21 +1,42 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving hand" width="35" />, I'm Akanwealth Asanga</h1>
 
 <p align="center">
-  <b>Building software that enables creators and businesses to thrive.</b><br>
-  Technical Writer • Fullstack Developer
+  <b>Building reliable, scalable software and the cloud infrastructure it runs on.</b><br>
+  Cloud-Focused Full Stack Engineer • Team Lead • Technical Writer
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- ⚡ Fun fact: I’m a huge fan of simplicity and minimal design.
+- 💼 Lead Full Stack Developer with 8+ years of experience across fintech, edtech and e-commerce, leading engineering teams and shipping production systems.
+- ☁️ Growing into cloud engineering: currently completing a cloud engineering diploma (expected March 2027), with AWS as my primary platform.
+- 🏗️ Focused on automation and Infrastructure as Code: Terraform, the AWS CLI and scripting to make deployments repeatable and boring.
+- 🎓 Google Cloud Certified, Cloud Computing Fundamentals.
+- ⚡ Fun fact: I'm a huge fan of simplicity and minimal design, in code and in infrastructure.
 - 📫 How to reach me: [akanwealth@gmail.com](mailto:akanwealth@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/akanwealth/)
 
 ---
 
+## ☁️ Cloud & Infrastructure
+
+| Area | What I work with |
+|------|------------------|
+| **Cloud platforms** | AWS (primary focus), Google Cloud |
+| **Infrastructure as Code** | Terraform, AWS CLI, shell scripting |
+| **Containers & orchestration** | Docker, Kubernetes |
+| **CI/CD & automation** | Automated build, test and deploy pipelines |
+| **Learning path** | Cloud engineering diploma, expected March 2027 |
+
+---
+
 ## 🧰 Tech Stack
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,githubactions,linux,bash,git,github,vercel" />
+</p>
 
 ### Languages & Frameworks
 <p>
@@ -28,7 +49,7 @@
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
-### Databases & Tools
+### Databases & Messaging
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase,redis,mssql,rabbitmq" />
 </p>
@@ -36,11 +57,6 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### DevOps & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,aws,linux,bash,git,github" />
 </p>
 
 ---
