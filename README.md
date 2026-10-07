@@ -27,7 +27,6 @@
 | **Infrastructure as Code** | Terraform, AWS CLI, shell scripting |
 | **Containers & orchestration** | Docker, Kubernetes |
 | **CI/CD & automation** | Automated build, test and deploy pipelines |
-| **Learning path** | Cloud engineering diploma, expected March 2027 |
 
 ---
 
