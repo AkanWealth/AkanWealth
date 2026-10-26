@@ -7,11 +7,11 @@
 
 ---
 
-## 🧠 About Me
+- ## 🧠 About Me
 
 - 💼 Lead Full Stack Developer with 8+ years of experience across fintech, edtech and e-commerce, leading engineering teams and shipping production systems.
-- ☁️ Growing into cloud engineering: currently completing a cloud engineering diploma (expected March 2027), with AWS as my primary platform.
-- 🏗️ Focused on automation and Infrastructure as Code: Terraform, the AWS CLI and scripting to make deployments repeatable and boring.
+- ☁️ Cloud Engineering focused, with hands-on experience in AWS, cloud infrastructure, deployment automation and infrastructure management.
+- 🏗️ Focused on automation and Infrastructure as Code: Terraform, the AWS CLI and scripting to make deployments repeatable and reliable.
 - 🎓 Google Cloud Certified, Cloud Computing Fundamentals.
 - ⚡ Fun fact: I'm a huge fan of simplicity and minimal design, in code and in infrastructure.
 - 📫 How to reach me: [akanwealth@gmail.com](mailto:akanwealth@gmail.com)
